@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MenjadiSuami">
+
+    <TextView
+        android:id="@+id/tulisan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Rasululah Menjadi Suami"
+        android:fontFamily="cursive"
+        android:textStyle="bold"
+        android:textSize="39dp"
+        android:layout_centerHorizontal="true"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tulisan"
+        android:layout_margin="5dp"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000000"
+            android:paddingTop="@android:dimen/app_icon_size"
+            android:paddingBottom="@android:dimen/app_icon_size"
+            android:paddingVertical="@android:dimen/app_icon_size"
+            android:text="Cerita nabi muhammad ini merupakan lanjutan dari cerita nabi muhammad sebelumnya yang berjudul Nabi Muhammad SAW menjadi yatim piatu
+
+Abu Thalib yang mengasuh Nabi s.a.w adalah seorang yang kurang mampu dalam perekonomiannya, lagi pula banyak anaknya. Namun demikian setelah Muhammad s.a.w hidup bersamanya, Abu Thalib dapat merasakan keanehan, jika ia makan bersama Muhammad s.a.w, maka makanan yang sedikit itu bisa berkat, cukup dan merasa kenyang, tetapi jika makan tidak bersama Muhammad s.a.w, makanan itu menjadi kurang-kurang saja dirasakan.
+
+Sebab itulah Nabi Thalib sekeluarga selalu makan bersama Muhammad. Rasa sayang Abu Thalib kepada Muhammad s.a.w melebihi dari rasa sayang kepada putranya sendiri. Karena dari sangat sayangnya, kemana saja Muhammad s.a.w berjalan sering diikuti Abu Thalib.
+
+Pernah pada satu saat Abu Thalib pergi berdagang ke negeri syam Nabi Muhammad s.a.w dibawa serta. Saat itu Muhammad masih baru berusia 12 tahun. Ditengah perjalanan rombongannya itu bertemu dengan seorang pendeta Nasrani “Bahira” namanya. Dan kebetulan sekali pendeta itu memang mencari-cari siapakah Rasul yang penghabisan yang disebut dalam Taurat dan Injil itu ….? Setelah pendeta itu melihat Muhammad s.a.w, tahulah ia akan tanda-tanda keNabian yang ada pada Muhammad , s.a.w, maka ia pun menasehati abu Thalib agar Muhammad dibawa kembali ke Makkah, sebab sangat mengkhawatirkan kalau ditemukan oleh orang Yahudi pasti dianiayanya. Atas keterangan pendeta itu diterima baik oleh Abu Thalib, sehingga iapun kembali ke Makkah bersama Muhammad s.a.w.
+Sejak itu Nabi s.a.w bekerja dirumah saja mengembalakan kambing-kambing keluarga dan kambing-kambing orang lain yang dipercayakan kepada beliau. Setelah beliau menginjak dewasa, mulailah berusaha sendiri dalam perdagangan.
+
+Pada waktu itu siapa saja pasti mengenal Muhammad adalah seorang pemuda yang jujur, maka itulah Khadijah seorang janda yang kaya telah mempercayakan kepada beliau untuk membawa barang dagangannya. Selama beliau mendagangkan barang-barangnya Khadijah, semakinlah kepopuleran kejujuran itu, bukan saja di negeri Makkah bahkan sampai terkenal ke negeri Syam dan lain-lainnya.
+
+Khadijahpun menaruh hati ingin menjadikan Muhammad. sebagai suami. Akhirnya Khadijah ingin menyampaikan isi hatinya, maka diutuslah seorang teman dekatnya untuk melamar Muhammad. Utusan Khadijah itupun datang kepada Muhmmad dan menyampaikan apa maksudnya, seraya berkata : Hai Muhammad, saya datang kepada engkau ingin menanyakan sesuatu padamu. Tanya Nabi s.a.w: Sesuatu apakah yang engkau tanyakan itu ….? Kemudian utusan itupun mengatakan bahwa Muhammad s.a.w sekarang sudah berumur cukup dewasa, kenapa belum juga ada minat berumah tangga? Dan Muhammad s a w menjawab: Memang belum ada minat berumah tangga, karena merasa masih belum sanggup menegakkan rumah tangganya. Setelah utusan itu: Seandainya ada seseorang yang sanggup menanggung akan rumah tanggamu, adakah engkau mau hidup bersamanya…?
+
+Selanjutnya Nabi Muhammad menanyakan siapa orang itu? Maka utusan itu memberitahukan, bahwa yang melamar adalah Khadijah binti Khuwalid sijanda yang kaya itu. Mendengar utusan itu, Nabipun berdebar terkejut dan berdiam diri, sejenak kemudian beliau mengatakan akan dipikir-pikir dahulu dan akan diberitahukan kepada keluarganya untuk dimusyawarahkan. Rupanya keluarga Nabi s.a.w itupun menyetujui, maka diterimalah lamaran itu dan akhirnya beliau melangsungkan pernikahan dengan Khadijah yang sudah berumur 40 tahun itu, sedang Nabi s.a.w masih baru berumur 25 tahun. Atas perkawinan beliau yang tidak sebanding umurnya itu, kita bisa membayangkan, tetapi bagi pasangan beliau berdua tidak seperti apa yang kita bayangkan, karena Khadijah yang cantik itu masih nampak muda serta memipunyai budi pekerti yang sangat mulia.
+
+"/>
+
+    </ScrollView>
+
+</RelativeLayout>

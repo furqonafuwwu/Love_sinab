@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MenjadiSuami">
+
+    <TextView
+        android:id="@+id/tulisan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Rasululah Menjadi Yatim"
+        android:fontFamily="cursive"
+        android:textStyle="bold"
+        android:textSize="39dp"
+        android:layout_centerHorizontal="true"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tulisan"
+        android:layout_margin="5dp"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000000"
+            android:paddingTop="@android:dimen/app_icon_size"
+            android:paddingBottom="@android:dimen/app_icon_size"
+            android:paddingVertical="@android:dimen/app_icon_size"
+            android:text="Setahun kemudian menjadi genap enam tahun umur Nabi s.a.w, saat beliau diajak oleh ibunya pergi ke Madinah untuk diperkenalkan kepada keluarga neneknya Bani Najjar yang sekaligus diajak berziarah kepusara ayahnya dimana dikuburkan. Disebuah rumah ditunjukkan kepada Nabi s a w dan dengan nada menunjukkan perasaan pilu dan terharu yang menghimpun segala kesedihan diceritakan ketika ayahnya pulang berdagang dari negeri Syam, sampai disitu telah jatuh sakit dan dirawat dirumah itu sampai datang ajalnya. Demikianlah SitiAminah menceritakan kepda anaknya tentang peristiwa masa lalunya yang tidak dapat dilupakan selama hidupnya.
+
+Rupanya hal itu membawa Nabi s a w kepada keharuan juga, sehingga setelah beliau diangkat menjadi Rasul dan setelah hijrah ke Madinah peristiwa itu selalu disebut-sebutnya. Satu bulan beliau tinggal di Madinah bersama ibunya, kemudian kembali ke Makkah. Dalam perjalanan mereka ke makkah, baru sampai disebuah kampung yang bernama Abwa’ mendadak Siti Aminah yaitu ibu Nabi saw jatuh sakit sehingga wafat disitu juga.
+
+Betapakah bertambah beban kesedihannya dikala itu, beliau yang baru beberapa hari saja mendengar cerita duka cita, ketika beliau masih dalam kandungan ibunya telah ditinggal ayahnya untuk pergi selama-lamanya, kini telah menyusul ibunya pulang kerahmatullah. Nabi s a w menjadi sedih mengenang nasibnya yang masih berusia enam tahun sudah tiada ayah dan ibu, maka jadilah beliau bocah yatim piatu. Setelah pemakaman ibunya sudah selesai, beliaupun meninggalkan kampung itu, meneruskan perjalanannya menuju Makkah bersama-sama dengan kakeknya yaitu Abdul Muthalib.
+
+Nabi Muhammad SAW menjadi kesayangan kakeknya
+Sejak ibunda Nabi SAW meninggal dunia, ia diasuh sendiri oleh kakek dari ayahnya yang bernama Abdul Muthalib, kakek Muthalib sangat menyayangi Nabi Muhammad. Ketika nabi muhammad dilahirkan, ia sangat senang sekali. Sehingga ia sendiri yang memberi nama “Muhammad” yang memiliki arti “orang yang terpuji”. Sebuah nama yang diberikan oleh kakeknya itu sesuai dengan nama pemberian dari Allah yaitu “Ahmad” yang artinya adalah “Orang yang lebih terpuji”
+
+Seperti yang difirmankan oleh Allah dalam surat ash-shaf ayat 16 :
+
+Ingatlah ketika Isa anak Maryam berkata : Yaa Bani Israil . .! Sesungguhnya saya utusan Allah kepadamu membenarkan bagi apa yang antara hadapanmu dan saya memberi kabar gembira dengan kedatangan seorang rasul yang datang sesudah saya nanti, yang bernama Ahmad Ketika datang ia dengan membawa keterangan yang nyata, mereka berkata : Ini adalah sihir yang nyata"/>
+
+    </ScrollView>
+</RelativeLayout>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Kelahiran">
+
+    <TextView
+        android:id="@+id/tulisan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Kelahiran Rasulullah"
+        android:fontFamily="cursive"
+        android:textStyle="bold"
+        android:textSize="40dp"
+        android:layout_centerHorizontal="true"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tulisan"
+        android:layout_margin="5dp"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000000"
+            android:paddingTop="@android:dimen/app_icon_size"
+            android:paddingBottom="@android:dimen/app_icon_size"
+            android:paddingVertical="@android:dimen/app_icon_size"
+            android:text="Pada cerita islami kali ini diceritakan mengenai cerita nabi muhammad SAW, nabi terakhir atau nabi penutup dari nabi nabi sebelumnya, tidak ada nabi lagi setelah nabi Muhammad.
+
+Dikala manusia masih rendah peradabannya, adalah bangsa Arab yang amat sangat dalam kerusakan moralnya. Itulah sebabnya Allah menjadikan seorang nabi akhiruz zaman dari kalangan bangsa Arab. Saat itulah lahir dari keluarga yang sederhana, seorang bayi yang kelak akan membawa kemajuan peradaban manusia makhluk yang mempunyai akal dan pikiran. Bayi itu yatim, bapanya yang bernama Abdullah telah meninggal dunia kurang lebih 3 bulan sebelum dia dilahirkan. Atas kelahiran bayi itu disambut oleh kakeknya yang bernama Muththalib dengan penuh kasih sayang dan kemudian bayi itu dibawanya kekaki  Ka’bah.
+
+Ditempat suci inilah bayi itu diberi nama Muhammad, satu nama yang belum pernah ada sebelumnya menurut penelitian para ahli. Kelahiran Nabi Muhammad s.a.w.pada tanggal 12 Rabiul awal tahun gajah bertepatan dengan tanggal 20 April tahun 571 Masehi. Tahun kelahiran beliau disebut tahun gajah, karena pada waktu negeri Makkah kedatangan tentara pasukan yang berkendaraan gajah hendak menghancurkan-Ka’bah, maka orang-orang Arab menamakan tahun gajah. Adalah seorang raja Najasyi pemeluk agama Nasrani (Kristen) telah selesai membangun gereja dinegeri Shan’a ibukota negeri Yaman. Setelah itu, bermaksud hendak meruntuhkan Ka’bah, agar tiada lagi manusia yang berziarah ke Ka’bah j rumah Allah itu flan supaya pindah saja ke gereja yang baru dibangunnya itu.
+
+Kemudian raja mengirim pasukan yang berkendaraan gajah dibawah pimpinan Abraha untuk menghancurkan Ka’bah. Pembesar- pembesar Makkah, seperti Abdul Muthalib dan lainnya merasa tidak mampu lagi melawannya, karena pasukan Abraha sangat kuat dengan peralatan senjata yang cukup lengkap. Oleh sebab itu mereka hanya bisa berserah saja kepada Tuhan yang memiliki Ka’bah dan mereka pun meninggalkan kota Makkah mencari perlindungan masing-masing. Mereka yang dalam keadaan demikian hanya bisa berbuat mengajukan permohonan doa kepada Tuhan, agar Ka’bah yang mereka cintai itu selalu mendapat perlindungan dari Tuhan. Ketika pasukan itu hendak meruntuhkan Ka’bah, maka Allah mengutus burung Ababil untuk menghancurkan pasukan itu dengan melempari kerikil-kerikil batu, sehingga mereka bagaikan daun-daun kayu yang dimakan ulat.
+Hal ini difirmankan Allah dalam Al Qur’an pada surah Al-Fil:
+
+Artinya:
+Adakah tiada tahu hai Muhammad, bagaimana Tuhanmu berbuat kepada tentara gajah itu …? Adakah tidak menjadikan Tuhan akan tipu daya mereka dalam kesesatan . .? Tuhan telah mengutus kepada mereka burung Ababil yang melempari mereka dengan batu-batu kerikil. Maka jadilah mereka bagaikan daun-daun kayu yang dimakan ulat.
+
+Demikianlah salah satu tanda bukti bahwa Allah Maha Kuasa dengan, kekuasaanNya sangat mudah sekali untuk membinasakan manusia yang durhaka itu, walaupun hanya dengan lantaran binatang yang berupa burung
+
+Bayi Muhammad s.a. w. membawa keberkahan
+Sudah menjadi adat kebiasaan orang-orang Makkah di zaman itu, setiap bayi dicarikan orang dari pegunungan untuk mengasuh dan memeliharanya, karena dikota Makkah hawanya tidak cocok untuk bayi. Maka bayi Muhammad s.a. w dicarikan orang dari pegunungan untuk menetekinya dan dipilihkan orang yang berketurunan baik agar berpengaruh pada bayinya. Saat itulah seorang perempuan suku Badwi, Halimatus Sa’diyah namanya datang kepada Siti Aminah ibu Nabi SAW, menawarkan dirinya untuk merawat Muhamaad s.a.w. Atas persetujuan semua keluarga, maka diserahkanlah bayi Muhammad s.a.w itu kepada Halimatus Sa’diyah. Setelah mendapat bayi Muhammad s.a.w, ia benar-benar dapat merasakan perubahan nasib hidupnya.
+
+Jika sebelumnya ia selalu menemui hidup serba susah, binatang ternaknya kurus-kurus dan pula perekonomiannya lemah, sehingga kesusahan yang merundung membuat dirinya kurus. Sementara anak kandungnya sendiri sering menangis karena kelaparan dan kekurangan air susu. Atas pertolongan Allah jugalah setelah bayi Muhammad s.a.w tinggal bersamanya, binatang ternaknya menjadi gemuk-gemuk dan berkembang biak serta tanaman-tanamannya ikut menjadi subur.
+
+Maka kini hidupnya menjadi makmur, air susunya menjadi banyak, sehingga anaknya tidak kelaparan lagi dan Halimah pun kembali gemuk dan sehat. Saat itulah Halimah baru dapat merasakan bahwa dirinya mendapat rahmat dari Allah lantaran bayi Muhammad s.a.w yang dikaruniai keberkahan itu. Mungkin juga disebabkan karena ia sangat sayang sekali kepada Muhammad s.a.w sebagaimana ia menyayangi anaknya sendiri. Setelah ternyata demikian, yang mulanya Halimatus Sa’diyah dijanjikan hanya dua tahun saja mengasuh Muhammad s.a.w, ia pun merasa bahwa dua tahun itu hanya sekejap mata saja.
+
+Maka itu setelah habis waktu yang dijanjikan itu, ia datang kepada Siti Aminah untuk minta tambah dua tahun lagi mengasuhnya. Dan setelah disepakati dalam musyawarah keluarga, maka Muhammad s.a.w diserahkan kepada Halimah untuk diasuh selama dua tahun lagi. Selama empat tahun itulah Muhammad s.a.w diasuh dan dibesarkan dalam pengawasan Halimatus Sa’diyah. Dengan perasaan yang masih keberatan dan terharu, Halimatus Sa’diyah terpaksa menyerahkan Muhammad s.a.w kepada ibu kandungnya yang setelah habis masa perjanjiannya. Sedang Siti Aminahpun juga sudah ingin cepat-cepat mengasuh anaknya dirumah. Maka kini Nabi Muhammad s.a.w yang baru berumur lima tahun kembali diasuh oleh ibunya sendiri yaitu Siti aminah.
+
+Cerita Nabi Muhammad selanjutnya"/>
+
+    </ScrollView>
+
+</RelativeLayout>
